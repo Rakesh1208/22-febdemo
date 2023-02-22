@@ -1,6 +1,3 @@
-hello 
-this
-is  
-was
-rakesh
-govind 
+#!/bin/bash
+
+echo "hello world"
